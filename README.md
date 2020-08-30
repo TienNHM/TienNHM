@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning and Computer vision.**
 
-- 👨‍💻 All of my projects are available at [tiennhm.github.io](tiennhm.github.io)
+- 👨‍💻 All of my projects are available at [https://tiennhm.github.io](https://tiennhm.github.io)
 
 - 💬 Ask me about **C, C#, Python**
 

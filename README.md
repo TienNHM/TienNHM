@@ -19,5 +19,5 @@
 <a href="https://linkedin.com/in/tien-nhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tien-nhm" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/10051568" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10051568" height="30" width="30" /></a>
 <a href="https://fb.com/01.tien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="01.tien" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/channel/ucarr1sjyhm61rrly-dibm1g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucarr1sjyhm61rrly-dibm1g" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/ucarr1sjyhm61rrly-dibm1g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="channel/ucarr1sjyhm61rrly-dibm1g" height="30" width="30" /></a>
 </p>

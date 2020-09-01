@@ -21,7 +21,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact&hide=html" alt="tiennhm" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact" alt="tiennhm" />
 </p>
 <p>
   &nbsp;

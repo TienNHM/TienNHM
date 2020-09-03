@@ -28,6 +28,8 @@ Email: ***ngotienhoang09@gmail.com***
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
+----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact" alt="tiennhm" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true&theme=algolia" alt="tiennhm" />

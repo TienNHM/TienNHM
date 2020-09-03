@@ -35,5 +35,5 @@ Email: ***ngotienhoang09@gmail.com***
 </p>
 <p>
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true&theme=algolia" alt="tiennhm" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true&theme=algolia" alt="tiennhm" />
 </p>

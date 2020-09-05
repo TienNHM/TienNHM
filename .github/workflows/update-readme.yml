@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ 24b137d99a3e4313437351c54e5948d7177b1222 }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"

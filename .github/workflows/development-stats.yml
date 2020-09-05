@@ -1,9 +1,10 @@
+
 name: Realtime Development Stats
 
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   update-readme:

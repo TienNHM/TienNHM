@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
+    name: Realtime Development Stats
     runs-on: ubuntu-latest
 
     steps:

@@ -37,9 +37,3 @@ Email: ***ngotienhoang09@gmail.com***
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact" alt="tiennhm" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true&theme=algolia" alt="tiennhm" />
 </p>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->

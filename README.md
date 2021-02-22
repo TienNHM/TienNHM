@@ -45,9 +45,10 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact&hide=CSS&langs_count=10" alt="tiennhm" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true" alt="tiennhm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" />
 </p>
+
 
 ----
 

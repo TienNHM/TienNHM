@@ -55,10 +55,10 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="175px" />
+    <img alt="Programming for Everybody (Getting Started with Python)" title="Programming for Everybody (Getting Started with Python)" src="certificates/Coursera V7MK7JDL96DU.png" height="175px" />
   </a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="175px" />
+  <a href="https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ">
+    <img alt="Python Data Structures" title="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="175px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
     <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="175px" />

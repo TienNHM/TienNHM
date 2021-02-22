@@ -54,7 +54,16 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 # Certificates:
 
 <p align="center">
-  <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="256px" />
-  <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="256px" />
-  <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="256px" />
+  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+  </a>
 </p>

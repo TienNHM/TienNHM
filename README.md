@@ -55,15 +55,15 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="160px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="160px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="160px" />
   </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU">
-    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="200px" />
+    <img alt="Python Data Structures" src="certificates/Coursera PQMJRCLM7BCQ.png" height="160px" />
   </a>
 </p>

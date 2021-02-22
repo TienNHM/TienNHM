@@ -45,7 +45,7 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact" alt="tiennhm" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&layout=compact&hide=CSS&langs_count=10" alt="tiennhm" />&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&show_icons=true&count_private=true" alt="tiennhm" />
 </p>
 

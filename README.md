@@ -2,8 +2,6 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
-
 <p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" /></p>
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
@@ -13,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [https://tiennhm.github.io](https://tiennhm.github.io)
 
 - 💬 Ask me about **C, C#, Python**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 ## 📫 How to reach me:
 Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)

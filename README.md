@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Tien</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-
-<p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
@@ -12,12 +11,25 @@
 
 - 💬 Ask me about **C, C#, Python**
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> 
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" />
+</p>
 
 ## 📫 How to reach me:
 Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 <p align="center">
-  <a href="https://www.facebook.com/01.tien" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/TienNHM" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="https://linkedin.com/in/tien-nhm" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
 </p>
 
 -----
@@ -50,7 +62,7 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 </p>
 
 
-----
+----------
 
 # Certificates:
 

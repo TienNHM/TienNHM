@@ -13,8 +13,10 @@
 
 
 ## 📫 How to reach me:
-Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
 <p align="center">
+  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
   <a href="https://www.facebook.com/01.tien" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -24,25 +26,16 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
   <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
 
------
-
-## Professional skills:
-<p align="center"> 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-</p>
-
-## Tools:
+## Skills:
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -51,8 +44,6 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
-
-------
 
 <table style="width:100%;">
   <tr>
@@ -67,8 +58,6 @@ Email: [***tiennhm.it@gmail.com***](mailto:tiennhm.it@gmail.com)
     </td>
   </tr>
 </table>
-
-----------
 
 # Certificates:
 

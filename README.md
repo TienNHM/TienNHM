@@ -75,3 +75,12 @@
     <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" height="175px" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python">
+    <img alt="Kaggle - Python" title="Kaggle - Python" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Python.png" height="175px" />
+  </a>
+  <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning">
+    <img alt="Kaggle - Intro to Machine Learning" title="Kaggle - Intro to Machine Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Machine%20Learning.png" height="175px" />
+  </a>
+</p>

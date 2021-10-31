@@ -1,6 +1,9 @@
-# Heading 1
+# Hướng dẫn dùng Markdown
 
-## Heading 2
+**MỤC LỤC**
+
+1. [Định dạng](https://github.com/TienNHM/TienNHM/blob/master/images/README.md#%C4%91%E1%BB%8Bnh-d%E1%BA%A1ng)
+2. [Code](https://github.com/TienNHM/TienNHM/blob/master/images/README.md#code)
 
 ### Định dạng
 

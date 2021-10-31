@@ -65,5 +65,12 @@ Hi there, I am `Nguyen Huynh Minh Tien`.
 </details>
 
 
+:100: 👽🉑🌟
 
+### Bảng
+
+| STT | Họ tên | Giới tính |
+| :---: | --- | ---: |
+| 1 | NVA | Nam |
+| 2 | NVB | Nữ |
 

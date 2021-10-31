@@ -2,7 +2,7 @@
 
 ## Heading 2
 
-###### Heading 6
+###### Định dạng
 
 
 **In đậm**
@@ -11,6 +11,8 @@ _In nghiêng_
 
 _**Gạch chân**_
 
+### Code
+
 ```js
 alert("Hello");
 console.log("ping");
@@ -18,8 +20,11 @@ console.log("ping");
 
 Hi there, I am `Nguyen Huynh Minh Tien`.
 
+### Trích dẫn
+
 > Đây là trích dẫn.
 
+### Đánh thứ tự
 
 - Hello
   - Hello
@@ -32,6 +37,7 @@ Hi there, I am `Nguyen Huynh Minh Tien`.
 2. Hi
 3. HHH
 
+### Summary
 
 <details>
   <summary>Mở rộng</summary>

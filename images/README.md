@@ -2,8 +2,7 @@
 
 ## Heading 2
 
-###### Định dạng
-
+### Định dạng
 
 **In đậm**
 

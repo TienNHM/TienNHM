@@ -21,6 +21,11 @@ databases in production → senior engineering.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cài skill rồi code tiếp: cơ chế đằng sau và phần tri thức bị bỏ lại](https://tiennhm.io.vn/blog/agent-skills-co-che-va-tri-thuc-bi-bo-qua)
+- [Thêm 4 index làm INSERT chậm 6 lần: cái giá không ai nhắc khi bảo bạn đánh index](https://tiennhm.io.vn/blog/chi-phi-ghi-cua-index)
+- [MeiGen: thư viện prompt ảnh miễn phí, và cái MCP server ít người để ý](https://tiennhm.io.vn/blog/meigen-ai-prompt-gallery-mcp)
+- [Luỹ kế của bạn sai ngay dòng đầu: window function, RANGE và cái mặc định ít ai đọc](https://tiennhm.io.vn/blog/window-function-vs-group-by)
+- [MailKit trong .NET: gửi email SMTP và dựng HTML email template chạy đúng trên Outlook](https://tiennhm.io.vn/blog/mailkit-html-email-template)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Working with

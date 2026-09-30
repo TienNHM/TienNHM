@@ -1,61 +1,80 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://github.com/TienNHM.png" />
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm TienNHM</h2>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
-</p>
+<h3 align="center">Backend developer from Vietnam 🇻🇳</h3>
 
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
+> ✍ Software developer at [Utop @ FPT](https://utop.io/). I write about .NET, databases and
+> system design at **[tiennhm.io.vn](https://tiennhm.io.vn/)**.
 
-<br />
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=TienNHM&style=flat-square)
 
-## 📫 How to reach me:
+## 📝 Writing
+
+A technical blog in Vietnamese — mostly production bugs I hit at work, traced down to the
+actual cause, with the experiment that proves it.
+
+### 📘 [.NET Backend: Zero to Senior](https://tiennhm.io.vn/docs/dotnet-backend-zero-to-senior)
+
+A free, structured course in five stages: C# foundations → professional C# → ASP.NET Core →
+databases in production → senior engineering.
+
+### Recent posts
+
+- [Cài skill rồi code tiếp: cơ chế đằng sau và phần tri thức bị bỏ lại](https://tiennhm.io.vn/blog/agent-skills-co-che-va-tri-thuc-bi-bo-qua)
+- [Thêm 4 index làm INSERT chậm 6 lần: cái giá không ai nhắc khi bảo bạn đánh index](https://tiennhm.io.vn/blog/chi-phi-ghi-cua-index)
+- [Luỹ kế của bạn sai ngay dòng đầu: window function, RANGE và cái mặc định ít ai đọc](https://tiennhm.io.vn/blog/window-function-vs-group-by)
+- [Hai giao dịch cùng cộng 100, số dư chỉ tăng 100: isolation level qua thí nghiệm thật](https://tiennhm.io.vn/blog/sql-isolation-level-lost-update-phantom-read)
+- [MailKit trong .NET: gửi email SMTP và dựng HTML email template chạy đúng trên Outlook](https://tiennhm.io.vn/blog/mailkit-html-email-template)
+
+[All posts](https://tiennhm.io.vn/blog) · [Topics](https://tiennhm.io.vn/blog/tags) · [Projects](https://tiennhm.io.vn/showcase) · [About](https://tiennhm.io.vn/about)
+
+## 🛠 Working with
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="Nginx" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+</p>
+
+## 📫 How to reach me
+
+<p align="center">
+  <a href="https://tiennhm.io.vn/" title="Blog">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Blog" />
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  <a href="https://linkedin.com/in/tien-nhm" title="LinkedIn">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
+  <a href="https://www.facebook.com/01.tien" title="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  <a href="https://github.com/TienNHM" title="GitHub">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" title="YouTube">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
+  <a href="https://www.kaggle.com/nguyenhuynhminhtien" title="Kaggle">
+    <img src="https://img.icons8.com/windows/48/000000/kaggle.png" alt="Kaggle" />
+  </a>
+  <a href="mailto:tiennhm.it@gmail.com" title="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email" />
   </a>
 </p>
 
-## Skills:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-</p>
+<details>
+<summary>📜 Certificates</summary>
 
-# Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
+<br />
 
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
 - [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
@@ -68,9 +87,4 @@
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
 - [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
 
-# Contributors
-
-<a href="https://github.com/TienNHM/TienNHM/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TienNHM/TienNHM" />
-</a>
-
+</details>

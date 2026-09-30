@@ -1,0 +1,40 @@
+name: Cập nhật bài viết mới nhất
+
+on:
+  schedule:
+    # 01:00 UTC hằng ngày = 08:00 giờ Việt Nam.
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+# Chỉ xin đúng quyền cần để commit lại README.
+permissions:
+  contents: write
+
+concurrency:
+  group: update-blog-posts
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Đọc RSS và ghi lại README
+        run: node scripts/update-readme-posts.js
+
+      - name: Commit nếu có thay đổi
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README không đổi, bỏ qua commit."
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore: cập nhật danh sách bài viết mới nhất'
+          git push

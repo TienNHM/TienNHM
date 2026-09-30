@@ -54,7 +54,7 @@ databases in production → senior engineering.
   <a href="https://linkedin.com/in/tien-nhm" title="LinkedIn">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/01.tien" title="Facebook">
+  <a href="https://www.facebook.com/tiennhm.vn" title="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
   </a>
   <a href="https://github.com/TienNHM" title="GitHub">

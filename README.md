@@ -21,11 +21,11 @@ databases in production → senior engineering.
 ### Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1MCP Agent: gom mọi MCP server về một cửa, và bớt ngốn context](https://tiennhm.io.vn/blog/1mcp-agent-mcp-gateway)
 - [Diagram Design: dạy AI agent vẽ sơ đồ kỹ thuật gọn, đẹp và đúng màu thương hiệu](https://tiennhm.io.vn/blog/diagram-design-skill-ve-so-do-cho-ai-agent)
 - [Phát triển hướng kiểm thử (TDD) trong vòng đời phát triển hướng AI (AI-DLC): tổng quan bằng chứng và đề xuất thực hành](https://tiennhm.io.vn/blog/tdd-test-driven-development)
 - [Cài skill rồi code tiếp: cơ chế đằng sau và phần tri thức bị bỏ lại](https://tiennhm.io.vn/blog/agent-skills-co-che-va-tri-thuc-bi-bo-qua)
 - [Thêm 4 index làm INSERT chậm 6 lần: cái giá không ai nhắc khi bảo bạn đánh index](https://tiennhm.io.vn/blog/chi-phi-ghi-cua-index)
-- [MeiGen: thư viện prompt ảnh miễn phí, và cái MCP server ít người để ý](https://tiennhm.io.vn/blog/meigen-ai-prompt-gallery-mcp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠 Working with
